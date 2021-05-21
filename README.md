@@ -71,4 +71,6 @@ code and present all functionality of our game. In conclusion we get a grade fro
 ### **Thomy Lorenzatti**</br>https://github.com/ThomyLorenzatti</br></br>
 ### **Mathis Lorenzo**</br>https://github.com/ZaldieR</br></br>
 ### **Hugo Rodrigues**</br>https://github.com/hugomagics</br></br>
-### **Nathan Guiu**</br>https://github.com/Nathn-G</br></br>
+### **Nathan Guiu**</br>https://github.com/Nathn-G</br></br></br>
+
+**https://zaldier.itch.io/my-rpg**
